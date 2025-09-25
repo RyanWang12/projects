@@ -1,4 +1,4 @@
-Messgae delivery system to mimic Instagram notification systems:
+Message delivery system to mimic Instagram notifications:
 
 By reading jsonl files from command line, it is able to determine the notification settings of individuals and send approrpiate messages to that user given an user id
 
@@ -11,3 +11,4 @@ Some notifications that could be recieved are:
 
 If more than 3 of the same notifications are sent in a row, it will be aggregated together. 
 The notifications are sent in order of latest notification to newest
+
